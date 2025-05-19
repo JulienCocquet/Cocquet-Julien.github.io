@@ -25,11 +25,11 @@ Metric Graph Theory
 [**A Polynomial-Time Approximation Algorithm for Complete Interval Minors**](https://arxiv.org/abs/2505.05997)  
 Romain Bourneuf, Julien Cocquet, Chaoliang Tang, Stéphan Thomassé  
 
-M1 reasearch internship : [**WL dimension and strong product**]
+**M1 reasearch internship** : [**WL dimension and strong product**]
 
 Gwenaël Joret
 
-L3 research internship : [**VC-dimension of median graphs excluding cubes**] We showed that the VC-dimension of an hypercube is its dimension plus one, and that the VC-dimension of median graphs exluding cubes is at most 4 (and the bound is tight).
+**L3 research internship** : [**VC-dimension of median graphs excluding cubes**] We showed that the VC-dimension of an hypercube is its dimension plus one, and that the VC-dimension of median graphs exluding cubes is at most 4 (and the bound is tight).
 
 Victor Chepoi, Jérémy Chalopin 
 
