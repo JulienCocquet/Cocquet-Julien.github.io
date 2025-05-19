@@ -3,7 +3,7 @@ layout: default
 ---
 # Hi!
 
-Welcome to my homepage. I am a M2 student in [ENS Lyon](https://www.ens-lyon.fr/) at [**UMPA**](https://www.umpa.ens-lyon.fr/). I ambition to teach in universities or cram schools, which is why I sat the French exam "External Agregation" in **2024** in order to teach at universities or cram schools. See my [CV]() for more information.
+Welcome to my homepage. I am a M2 student in [**ENS Lyon**](https://www.ens-lyon.fr/) at [**UMPA**](https://www.umpa.ens-lyon.fr/). I ambition to teach in universities or cram schools, which is why I sat the French exam "External Agregation" in **2024** in order to teach at universities or cram schools. See my [CV]() for more information.
 
 Currently I am working in the [MC2 team](https://www.ens-lyon.fr/LIP/MC2/) in [LIP](https://www.ens-lyon.fr/LIP) at **ENS Lyon**, where my supervisor is [**Stéphan Thomassé**](https://perso.ens-lyon.fr/stephan.thomasse/).
 
