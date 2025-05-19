@@ -1,7 +1,7 @@
-title: ChaoliangTang
-logo: /assets/img/me.jpg
-email: cltang22@m.fudan.edu.cn
-description: I am a PhD student in Fudan University, supervised by Professor Hehui Wu.
+title: CocquetJulien
+logo: 
+email: julien.cocquet@ens-lyon.fr
+description: I am a M2 maths student, interested in computer science (especially in using maths in graph theory).
 favicon: true
 color-scheme: auto
 
@@ -11,14 +11,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/ChaoliangTang
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: www.linkedin.com/in/chaoliangtang
 
 navigation:
   - name: About me
@@ -34,8 +26,6 @@ navigation:
         link: ./index.html#conference-and-seminars
       - name: Talks
         link: ./index.html#talks
-      - name: Proceeding Researches
-        link: ./index.html#proceeding-researches
       - name: Hobbies
         link: ./index.html#hobbies
 #   - name: Another Page
