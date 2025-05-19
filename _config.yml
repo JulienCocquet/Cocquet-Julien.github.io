@@ -1,0 +1,42 @@
+title: ChaoliangTang
+logo: /assets/img/me.jpg
+email: cltang22@m.fudan.edu.cn
+description: I am a PhD student in Fudan University, supervised by Professor Hehui Wu.
+favicon: true
+color-scheme: auto
+
+      
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/ChaoliangTang
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/chaoliangtang
+
+navigation:
+  - name: About me
+    link: ./index.html
+    sublist:
+      - name: Research Interests
+        link: ./index.html#research-interests
+      - name: Research Woorks
+        link: ./index.html#research-works
+      - name: Teachings
+        link: ./index.html#teachings
+      - name: Conference and Seminars
+        link: ./index.html#conference-and-seminars
+      - name: Talks
+        link: ./index.html#talks
+      - name: Proceeding Researches
+        link: ./index.html#proceeding-researches
+      - name: Hobbies
+        link: ./index.html#hobbies
+#   - name: Another Page
+#     link: ./another-page.html
