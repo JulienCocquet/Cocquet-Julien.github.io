@@ -33,7 +33,7 @@ Gwenaël Joret
 
 Victor Chepoi, Jérémy Chalopin 
 
-# Teachings
+# Teaching
 
 I have given math oral exams ("Colles" in French) through the scholar 2025 year to MPSI and PSI students. I even gave individual lessons to some of my students at the end of the testing year.
 
